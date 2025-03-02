@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\realtimecounterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\realtimecounterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\realtimecounterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\realtimecounterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|c:\\users\\pete\\documents\\rocmn\\rekenrace\\wpf-c-sharp-lesson-2\\wpf-c-sharp-lesson-2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\simplebindingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\simplebindingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\simplebindingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\simplebindingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\cartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\cartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\wpf-c-sharp-lesson-2\\cartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCDC0BA9-3A7B-4C81-8D8F-7A9835F6C890}|WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2.csproj|solutionrelative:wpf-c-sharp-lesson-2\\cartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RealTimeCounterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T14:24:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\CartWindow.xaml",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\CartWindow.xaml",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\CartWindow.xaml",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\CartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T14:04:08.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\Item.cs",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\Item.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\Item.cs",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:35:50.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\MainWindow.xaml",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T11:49:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:52:44.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RealTimeCounterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml.cs",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\RealTimeCounterWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:24:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleBindingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml.cs",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:14:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\CartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\CartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\CartWindow.xaml.cs",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\CartWindow.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAlwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:05:02.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleBindingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml",
+              "RelativeDocumentMoniker": "WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\Rekenrace\\WPF-C-Sharp-Lesson-2\\WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml",
+              "RelativeToolTip": "WPF-C-Sharp-Lesson-2\\SimpleBindingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T14:13:57.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

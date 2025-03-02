@@ -1,0 +1,11 @@
+﻿<Window x:Class="WPF_C_Sharp_Lesson_2.RealTimeCounterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Real-Time Counter" Height="200" Width="300">
+    <Grid>
+        <TextBlock Name="CounterBlock" Width="200" Height="50" Margin="50,30,0,0" 
+                   Text="{Binding Counter}" FontSize="24" TextAlignment="Center"/>
+        <Button Content="Increment" Width="100" Height="30" Margin="100,90,0,0" 
+                Click="IncrementButton_Click"/>
+    </Grid>
+</Window>
